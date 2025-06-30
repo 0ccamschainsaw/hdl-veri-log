@@ -1,1 +1,1 @@
-# hdl-veri-log
+Solutions to HDLBits Verilog questions.
