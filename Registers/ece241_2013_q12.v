@@ -1,4 +1,4 @@
-//look up table (LUT)
+// 3 input look up table (LUT)
 module top_module (
     input clk,
     input enable,
