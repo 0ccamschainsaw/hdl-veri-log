@@ -23,3 +23,4 @@ module top_module (
         (temp == 3'h7)?q[7]:1'b0;
 
 endmodule
+// Just use assign Z = q[ {A, B, C} ];
