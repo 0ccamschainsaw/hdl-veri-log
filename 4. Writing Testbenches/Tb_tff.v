@@ -11,7 +11,7 @@ module top_module ();
         clk = 0;
         reset = 0;
         t = 0;
-        #3;
+        #5;   //can use #3 also
         reset = 1;
         #10;
         reset = 0;
