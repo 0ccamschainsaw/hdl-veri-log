@@ -7,7 +7,7 @@ module top_module (
             q <= 0;
         end
         else begin
-            if (q < 999) q <= q + 1;      //999 not the same as 9'd999
+            if (q < 999) q <= q + 1;      //999 not the same as 9'd999 (can also use 'd999)
             else q <= 0;
         end
     end
